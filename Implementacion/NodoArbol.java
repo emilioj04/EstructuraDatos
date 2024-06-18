@@ -1,7 +1,7 @@
 public class NodoArbol extends Nodo {
 
 	ArbolBinario arbolBinario;
-	private nodoDoble anterior;
-	private nodoDoble siguiente;
+	private Nodo anterior;
+	private Nodo siguiente;
 
 }
